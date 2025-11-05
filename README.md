@@ -123,6 +123,10 @@ php -S 0.0.0.0:8080
 * 许可证：MIT License
 
 ---
+### 界面截图/UI Screenshot
+<img width="506" height="235" alt="image" src="https://github.com/user-attachments/assets/6b85c0a3-0344-496d-92f2-e4e2bb9a4760" />
+---
+
 
 ### 🌍 English Section
 
